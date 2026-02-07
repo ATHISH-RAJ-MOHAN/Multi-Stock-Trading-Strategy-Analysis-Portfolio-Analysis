@@ -186,7 +186,7 @@ Each strategy was tested with an initial investment of **$10,000**, and the port
 - **IREN:** Total Return = 357%, Annualized = 2.01, Sharpe = 1.36  
 - **SNDK:** Total Return = 1182%, Annualized = 42.4, Sharpe = 3.54
 
-### Analysis (3–4 Lines)
+### Analysis
 
 Across all tickers, the **EMA and SMA strategies clearly outperform RSI**, especially for high‑momentum stocks like OKLO and SNDK, which show extremely high total and annualized returns. RSI is inconsistent excellent for BMNR but weak for most other tickers indicating it depends heavily on mean‑reversion behavior. EMA performs best overall because it reacts faster to trend changes, while SMA is slightly slower but still strong for trending stocks. BMNR is the only ticker where both EMA and SMA struggle, showing that strategy effectiveness is highly stock‑dependent.
 
@@ -245,7 +245,7 @@ Below are the performance metrics (Total Return, Annualized Return, Sharpe Ratio
 - **IREN:** Total Return = 152%, Annualized = 0.96, Sharpe = 0.96  
 - **SNDK:** Total Return = 291%, Annualized = 6.52, Sharpe = 2.41  
 
-### Analysis (3–4 Lines)
+### Analysis
 
 The ARIMA strategy produced steady, moderate growth across all tickers, with SNDK showing the strongest performance both in total return and risk‑adjusted Sharpe Ratio. BMNR, BE, and OKLO delivered consistent gains, indicating that ARIMA captured their underlying price patterns reasonably well. IREN showed the weakest Sharpe Ratio, suggesting higher volatility relative to returns. Overall, ARIMA behaves as a stable but conservative forecasting‑based strategy compared to the more aggressive technical models.
 
