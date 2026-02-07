@@ -37,8 +37,7 @@ These tickers were selected to capture a mix of volatility, trend strength, and 
 ---
 
 ## Executing the Project
-1) 
-##  How to Run the Python Script in VS Code
+1) ##  How to Run the Python Script in VS Code
 
 1. Open VS Code and load your project folder:
    - Go to **File → Open Folder**
@@ -67,7 +66,7 @@ These tickers were selected to capture a mix of volatility, trend strength, and 
 
 This will execute the full workflow: download data, compute indicators, run all strategies, simulate portfolio values, and print performance metrics.
 
-2) How to Run (Google Colab)
+2) ## How to Run (Google Colab)
 
 You can run the entire project directly on **Google Colab** with no local setup.
 
