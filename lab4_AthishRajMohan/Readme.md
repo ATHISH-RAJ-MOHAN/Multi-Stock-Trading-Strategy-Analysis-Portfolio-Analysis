@@ -41,7 +41,7 @@ These tickers were selected to capture a mix of volatility, trend strength, and 
 
 1. Open VS Code and load your project folder:
    - Go to **File → Open Folder**
-   - Select the folder containing your `.py` file
+   - Select the folder containing your `multi_stock_trading_strategy_analysis_portfolio_analysis.py` file
 
 2. Create and activate a virtual environment (optional but recommended):
    - Windows:
