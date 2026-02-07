@@ -17,7 +17,7 @@ These tickers were selected to capture a mix of volatility, trend strength, and 
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 1. Download 2 years of daily OHLCV data using `yfinance`.  
 2. Compute indicators: SMA, EMA, RSI.  
@@ -36,7 +36,38 @@ These tickers were selected to capture a mix of volatility, trend strength, and 
 
 ---
 
-## How to Run (Google Colab)
+## Executing the Project
+1) 
+##  How to Run the Python Script in VS Code
+
+1. Open VS Code and load your project folder:
+   - Go to **File → Open Folder**
+   - Select the folder containing your `.py` file
+
+2. Create and activate a virtual environment (optional but recommended):
+   - Windows:
+     ```
+     python -m venv venv
+     venv\Scripts\activate
+     ```
+   - Mac/Linux:
+     ```
+     python -m venv venv
+     venv\Scripts\activate
+     ```
+
+3. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run the Main .py file
+   ```
+   python multi_stock_trading_strategy_analysis_portfolio_analysis.py
+   ```
+
+This will execute the full workflow: download data, compute indicators, run all strategies, simulate portfolio values, and print performance metrics.
+
+2) How to Run (Google Colab)
 
 You can run the entire project directly on **Google Colab** with no local setup.
 
