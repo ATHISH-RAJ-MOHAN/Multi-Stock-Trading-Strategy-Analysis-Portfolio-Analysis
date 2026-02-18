@@ -43,7 +43,3 @@ Outputs are written to `outputs/`:
 
 `BMNR`, `BE`, `OKLO`, `IREN`, `SNDK`
 
-## Notes
-
-If a ticker has partial 2025 data, the backtest will **skip trades** on days with missing prices (as requested).
-If a ticker has no 2025 data, its 20% allocation stays as cash for the year.
