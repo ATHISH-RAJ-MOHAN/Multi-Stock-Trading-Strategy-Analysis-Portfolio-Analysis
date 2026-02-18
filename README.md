@@ -8,7 +8,7 @@ This project backtests three strategies on five stocks for the 2024-2025 period:
 
 It compares both to **buy-and-hold** with a $100,000 portfolio split 20% per stock.
 
-## Assumptions (per your specs)
+## Assumptions
 
 - **Data**: `yfinance` daily data
 - **Price field**: **Adjusted Close**
