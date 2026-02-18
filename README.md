@@ -37,9 +37,11 @@ Outputs are written to `outputs/`:
 - `portfolio_values.png`
 - `*_portfolio.csv`
 - `*_trades.csv`
-- `report.md`
 
 ## Tickers
 
-`BMNR`, `BE`, `OKLO`, `IREN`, `SNDK`
+High-cap tech basket: NVIDIA (NVDA), Apple (AAPL), Alphabet (GOOGL), Microsoft (MSFT), Amazon (AMZN) 
+High-volatility / top-gainer basket: BitMine Immersion Technologies (BMNR), Bloom Energy (BE), Oklo (OKLO), Iris Energy (IREN), SanDisk (SNDK)
+
+Note:- You can manually enter the ticker as per your wish in the backtest.ipynb file.
 
