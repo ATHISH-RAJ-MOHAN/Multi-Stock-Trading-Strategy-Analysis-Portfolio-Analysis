@@ -1,4 +1,4 @@
-# DSCI 560 Lab 4 Backtest
+# Multi-Stock-Trading-Strategy-Analysis-Portfolio-Analysis
 
 This project backtests three strategies on five stocks for the 2024-2025 period:
 
